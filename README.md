@@ -60,7 +60,7 @@ Edit
 - Google Cloud or OpenAI API keys
 
 ### Installation
-```bash
+``bash
 git clone https://github.com/yourusername/rideon.git
 cd rideon
 npm install
@@ -72,7 +72,7 @@ Vercel or Netlify for frontend
 
 Firebase / Supabase for backend services
 
-🙌 Contribution
+## 🙌 Contribution
 We welcome contributions!
 
 Fork the repo
